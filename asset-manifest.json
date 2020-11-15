@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/kaizen/static/css/main.08ef7dc9.chunk.css",
+    "main.js": "/kaizen/static/js/main.c429b4be.chunk.js",
+    "main.js.map": "/kaizen/static/js/main.c429b4be.chunk.js.map",
+    "runtime-main.js": "/kaizen/static/js/runtime-main.2aecac28.js",
+    "runtime-main.js.map": "/kaizen/static/js/runtime-main.2aecac28.js.map",
+    "static/js/2.8b2917f8.chunk.js": "/kaizen/static/js/2.8b2917f8.chunk.js",
+    "static/js/2.8b2917f8.chunk.js.map": "/kaizen/static/js/2.8b2917f8.chunk.js.map",
+    "index.html": "/kaizen/index.html",
+    "precache-manifest.58fb67a9a0bafb5c8577e04f16756916.js": "/kaizen/precache-manifest.58fb67a9a0bafb5c8577e04f16756916.js",
+    "service-worker.js": "/kaizen/service-worker.js",
+    "static/css/main.08ef7dc9.chunk.css.map": "/kaizen/static/css/main.08ef7dc9.chunk.css.map",
+    "static/js/2.8b2917f8.chunk.js.LICENSE.txt": "/kaizen/static/js/2.8b2917f8.chunk.js.LICENSE.txt",
+    "static/js/main.c429b4be.chunk.js.LICENSE.txt": "/kaizen/static/js/main.c429b4be.chunk.js.LICENSE.txt",
+    "static/media/argon-react-white.png": "/kaizen/static/media/argon-react-white.275a2629.png",
+    "static/media/argon-react.png": "/kaizen/static/media/argon-react.f38ddea9.png",
+    "static/media/creativetim-white-slim.png": "/kaizen/static/media/creativetim-white-slim.f7cb2d39.png",
+    "static/media/font-awesome.min.css": "/kaizen/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/github.svg": "/kaizen/static/media/github.4ffd4fe7.svg",
+    "static/media/google.svg": "/kaizen/static/media/google.87be59a1.svg",
+    "static/media/img-1-1200x1000.jpg": "/kaizen/static/media/img-1-1200x1000.1e7c70dc.jpg",
+    "static/media/img-2-1200x1000.jpg": "/kaizen/static/media/img-2-1200x1000.ba449a06.jpg",
+    "static/media/kaizen.png": "/kaizen/static/media/kaizen.20fd3a08.png",
+    "static/media/nucleo.css": "/kaizen/static/media/nucleo-icons.f82ec6ba.ttf",
+    "static/media/team-1-800x800.jpg": "/kaizen/static/media/team-1-800x800.53033970.jpg",
+    "static/media/team-2-800x800.jpg": "/kaizen/static/media/team-2-800x800.dcfcf3b7.jpg",
+    "static/media/team-3-800x800.jpg": "/kaizen/static/media/team-3-800x800.497bb359.jpg",
+    "static/media/team-4-800x800.jpg": "/kaizen/static/media/team-4-800x800.23007132.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aecac28.js",
+    "static/js/2.8b2917f8.chunk.js",
+    "static/css/main.08ef7dc9.chunk.css",
+    "static/js/main.c429b4be.chunk.js"
+  ]
+}
