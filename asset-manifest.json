@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/kaizen/static/css/main.08ef7dc9.chunk.css",
-    "main.js": "/kaizen/static/js/main.c429b4be.chunk.js",
-    "main.js.map": "/kaizen/static/js/main.c429b4be.chunk.js.map",
+    "main.css": "/kaizen/static/css/main.b60f2a92.chunk.css",
+    "main.js": "/kaizen/static/js/main.e99852b8.chunk.js",
+    "main.js.map": "/kaizen/static/js/main.e99852b8.chunk.js.map",
     "runtime-main.js": "/kaizen/static/js/runtime-main.2aecac28.js",
     "runtime-main.js.map": "/kaizen/static/js/runtime-main.2aecac28.js.map",
-    "static/js/2.8b2917f8.chunk.js": "/kaizen/static/js/2.8b2917f8.chunk.js",
-    "static/js/2.8b2917f8.chunk.js.map": "/kaizen/static/js/2.8b2917f8.chunk.js.map",
+    "static/js/2.4fb10cb9.chunk.js": "/kaizen/static/js/2.4fb10cb9.chunk.js",
+    "static/js/2.4fb10cb9.chunk.js.map": "/kaizen/static/js/2.4fb10cb9.chunk.js.map",
     "index.html": "/kaizen/index.html",
-    "precache-manifest.58fb67a9a0bafb5c8577e04f16756916.js": "/kaizen/precache-manifest.58fb67a9a0bafb5c8577e04f16756916.js",
+    "precache-manifest.b00dcab7c3c5b3a2cf966fe09317e2cc.js": "/kaizen/precache-manifest.b00dcab7c3c5b3a2cf966fe09317e2cc.js",
     "service-worker.js": "/kaizen/service-worker.js",
-    "static/css/main.08ef7dc9.chunk.css.map": "/kaizen/static/css/main.08ef7dc9.chunk.css.map",
-    "static/js/2.8b2917f8.chunk.js.LICENSE.txt": "/kaizen/static/js/2.8b2917f8.chunk.js.LICENSE.txt",
-    "static/js/main.c429b4be.chunk.js.LICENSE.txt": "/kaizen/static/js/main.c429b4be.chunk.js.LICENSE.txt",
+    "static/css/main.b60f2a92.chunk.css.map": "/kaizen/static/css/main.b60f2a92.chunk.css.map",
+    "static/js/2.4fb10cb9.chunk.js.LICENSE.txt": "/kaizen/static/js/2.4fb10cb9.chunk.js.LICENSE.txt",
+    "static/js/main.e99852b8.chunk.js.LICENSE.txt": "/kaizen/static/js/main.e99852b8.chunk.js.LICENSE.txt",
     "static/media/argon-react-white.png": "/kaizen/static/media/argon-react-white.275a2629.png",
     "static/media/argon-react.png": "/kaizen/static/media/argon-react.f38ddea9.png",
     "static/media/creativetim-white-slim.png": "/kaizen/static/media/creativetim-white-slim.f7cb2d39.png",
     "static/media/font-awesome.min.css": "/kaizen/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/github.svg": "/kaizen/static/media/github.4ffd4fe7.svg",
-    "static/media/google.svg": "/kaizen/static/media/google.87be59a1.svg",
+    "static/media/github.svg": "/kaizen/static/media/github.2e257125.svg",
+    "static/media/google.svg": "/kaizen/static/media/google.08ea438e.svg",
     "static/media/img-1-1200x1000.jpg": "/kaizen/static/media/img-1-1200x1000.1e7c70dc.jpg",
     "static/media/img-2-1200x1000.jpg": "/kaizen/static/media/img-2-1200x1000.ba449a06.jpg",
     "static/media/kaizen.png": "/kaizen/static/media/kaizen.20fd3a08.png",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2aecac28.js",
-    "static/js/2.8b2917f8.chunk.js",
-    "static/css/main.08ef7dc9.chunk.css",
-    "static/js/main.c429b4be.chunk.js"
+    "static/js/2.4fb10cb9.chunk.js",
+    "static/css/main.b60f2a92.chunk.css",
+    "static/js/main.e99852b8.chunk.js"
   ]
 }
