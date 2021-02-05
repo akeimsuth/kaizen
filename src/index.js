@@ -24,10 +24,11 @@ import "assets/vendor/font-awesome/css/font-awesome.min.css";
 import "assets/scss/argon-design-system-react.scss?v1.1.0";
 
 import Index from "views/Index.js";
-import Landing from "views/examples/Landing.js";
-import Login from "views/examples/Login.js";
-import Profile from "views/examples/Profile.js";
-import Register from "views/examples/Register.js";
+import Landing from "views/Pages/Landing.js";
+import Login from "views/Pages/Login.js";
+import Profile from "views/Pages/Profile.js";
+import Register from "views/Pages/Register.js";
+import Vehicles from "views/Pages/Vehicles";
 
 ReactDOM.render(
   <BrowserRouter>
@@ -45,9 +46,14 @@ ReactDOM.render(
         render={props => <Profile {...props} />}
       />
       <Route
-        path="/register-page"
+        path="/our-vehicles"
         exact
-        render={props => <Register {...props} />}
+        render={props => <Vehicles {...props} />}
+      />
+      <Route
+        path="/our-vehicles/:id"
+        exact
+        render={props => <Vehicles {...props} />}
       />
       <Redirect to="/landing-page" />
     </Switch>
