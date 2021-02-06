@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca97f2056d93e5f64d710cf43e4abf67",
+    "revision": "4a5abc2b815e92b659ab139c4281c9b5",
     "url": "/kaizen/index.html"
   },
   {
-    "revision": "2fb3ae30a4613005c9b2",
+    "revision": "f4ebb3b69691325f59f6",
     "url": "/kaizen/static/css/main.b60f2a92.chunk.css"
   },
   {
-    "revision": "2ce20254177b5194ea4e",
-    "url": "/kaizen/static/js/2.4fb10cb9.chunk.js"
+    "revision": "f2612e346ae1fda0add3",
+    "url": "/kaizen/static/js/2.07243908.chunk.js"
   },
   {
     "revision": "6904dfd75471649aa9b5801f3774a8c5",
-    "url": "/kaizen/static/js/2.4fb10cb9.chunk.js.LICENSE.txt"
+    "url": "/kaizen/static/js/2.07243908.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2fb3ae30a4613005c9b2",
-    "url": "/kaizen/static/js/main.e99852b8.chunk.js"
+    "revision": "f4ebb3b69691325f59f6",
+    "url": "/kaizen/static/js/main.497ccb31.chunk.js"
   },
   {
     "revision": "7a6956e196ccd2e4ccc8856708b02847",
-    "url": "/kaizen/static/js/main.e99852b8.chunk.js.LICENSE.txt"
+    "url": "/kaizen/static/js/main.497ccb31.chunk.js.LICENSE.txt"
   },
   {
     "revision": "0f359acde3a9cf7d7d61",
