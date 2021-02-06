@@ -112,7 +112,7 @@ class DemoNavbar extends React.Component {
                   <UncontrolledDropdown nav>
                     <DropdownToggle nav>
                       <i className="ni ni-ui-04 d-lg-none mr-1" />
-                      <MyLink to={'/our-vehicles'} style={{color: 'white'}} className="nav-link-inner--text">Our Vehicles</MyLink>
+                      <MyLink to={'/our-vehicles/Nissan'} style={{color: 'white'}} className="nav-link-inner--text">Our Vehicles</MyLink>
                     </DropdownToggle>
                   </UncontrolledDropdown>
                   <UncontrolledDropdown nav>

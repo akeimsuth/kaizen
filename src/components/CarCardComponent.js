@@ -5,13 +5,20 @@ const CardContainer = styled.div`
     padding: 1rem;
     display: flex;
     flex-direction: column;
-    :first-child{
+    transform: ${props => props.selected ? 'scale(1)': 'scale(0.5)'};
+    opacity: ${props => props.selected ? '1': '0.2'};
+    cursor: ${props => props.selected ? 'default': 'pointer'};
+    transition: all 2s;
+    /* :first-child{
         transform: scale(0.5);
         opacity: 0.2;
     }
-    :last-child{
+    :nth-child(3){
         transform: scale(0.5);
         opacity: 0.2;
+    } */
+    :last-child{
+        display: none;
     }
 `;
 
@@ -21,6 +28,7 @@ const CardHeader = styled.div`
     align-items: center;
     .title{
         font-size: 3.5rem;
+        padding-right: 1rem;
     }
     .price{
         font-size: 2.2rem;
@@ -35,9 +43,9 @@ const CardImage = styled.div`
     }
 `;
 
-const CarCard = ({title, price, image}) => {
+const CarItem = ({ title, price, image, selected, onClick }) => {
     return (
-        <CardContainer>
+        <CardContainer selected={selected} onClick={onClick}>
             <CardHeader>
                 <p className="title">{title}</p>
                 <p className="price">{price}</p>
@@ -47,6 +55,12 @@ const CarCard = ({title, price, image}) => {
                 <img src={image} alt="..."/>
             </CardImage>
         </CardContainer>
+    )
+}
+
+const CarCard = ({title, price, image, selected, onClick}) => {
+    return (
+        <CarItem title={title} price={price} image={image} selected={selected} onClick={onClick}/>
     )
 }
 

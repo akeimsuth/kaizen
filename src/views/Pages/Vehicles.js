@@ -59,6 +59,7 @@ const Vehicles = () => {
     const renderSelectedComponent = () => {
         if(id === 'Nissan') return <Nissan/>
         if(id === 'Toyota') return <Toyota/>
+        else return <Nissan/>
     }
     return (
         <React.Fragment>
